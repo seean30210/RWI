@@ -1,0 +1,12 @@
+USER           = seeansham
+WORKING_DIR    = /Users/seeansham/Desktop/PLUTO/RWI
+SYSTEM_NAME    = Darwin
+NODE_NAME      = seeans-MacBook-Pro.local
+RELEASE        = 20.6.0
+ARCH           = x86_64
+BYTE_ORDER     = little
+VERSION        = Darwin Kernel Version 20.6.0: Wed Jun 23 00:26:31 PDT 2021; root:xnu-7195.141.2~5/RELEASE_X86_64
+PLUTO_DIR      = /Users/seeansham/Desktop/PLUTO
+PLUTO_VERSION  = "4.4-patch2"
+C_COMPILER     = gcc
+MPI_C_COMPILER = 
